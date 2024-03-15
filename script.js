@@ -66,4 +66,4 @@ function endGame() {
   userInput.setAttribute("disabled", ""); 
 }
 
-function newGame() {}
+
